@@ -26,12 +26,7 @@ namespace URI1035
             {
                 Console.WriteLine("Valores não Aceitos");
             }
-
-
-
-            
-
-
+           
         }
     }
 }
